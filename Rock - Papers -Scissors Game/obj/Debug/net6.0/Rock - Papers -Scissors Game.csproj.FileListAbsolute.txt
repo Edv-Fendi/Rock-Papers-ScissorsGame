@@ -1,0 +1,15 @@
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.csproj.AssemblyReference.cache
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.AssemblyInfoInputs.cache
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.AssemblyInfo.cs
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\bin\Debug\net6.0\Rock - Papers -Scissors Game.exe
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\bin\Debug\net6.0\Rock - Papers -Scissors Game.deps.json
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\bin\Debug\net6.0\Rock - Papers -Scissors Game.runtimeconfig.json
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\bin\Debug\net6.0\Rock - Papers -Scissors Game.dll
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\bin\Debug\net6.0\Rock - Papers -Scissors Game.pdb
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.dll
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\refint\Rock - Papers -Scissors Game.dll
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.pdb
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\Rock - Papers -Scissors Game.genruntimeconfig.cache
+C:\Users\digitaldoc\Desktop\Pessoal\Rock - Papers -Scissors Game\Rock - Papers -Scissors Game\obj\Debug\net6.0\ref\Rock - Papers -Scissors Game.dll
